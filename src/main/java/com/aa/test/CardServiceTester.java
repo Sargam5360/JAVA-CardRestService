@@ -17,7 +17,7 @@ public class CardServiceTester  {
 
    private Client client;
    private String REST_SERVICE_URL = "http://localhost:8080/payment1/rest/CardService";
-   private static final String SUCCESS_RESULT="<result>success</result>";
+   private static final String SUCCESS_RESULT="<response>SUCCESS</response>";
    private static final String PASS = "pass";
    private static final String FAIL = "fail";
 

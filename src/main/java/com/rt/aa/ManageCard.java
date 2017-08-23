@@ -117,8 +117,7 @@ public class ManageCard {
  		         session.close(); 
  		      }
 
- 			System.out.println(id);
- 			return id;
+  			return id;
  			
  			
  		}
